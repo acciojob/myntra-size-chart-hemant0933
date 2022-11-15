@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+
+th,td{
+    width: 130px;
+    text-align: left;
+    /* padding:5px; */
+}
+.row-1{
+    background-color:rgb(164, 62, 62);
+    color: yellow;
+    /* align-content:center; */
+}
+.row-2{
+    background-color: rgb(210, 118, 118);
+    color: white;
+    /* align-content: center; */
+}
+.row-3{
+    background-color:rgb(226, 161, 153);
+    color: black;
+    /* align-content: center; */
+}
+.row-4{
+    background-color:rgb(179, 179, 182);
+    color: black;
+    /* align-content: center; */
+}
